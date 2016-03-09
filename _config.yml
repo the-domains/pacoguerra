@@ -1,0 +1,28 @@
+name: pacoguerra
+favicon: null
+layout_spectrum: 0.04948651767335832
+typography_spectrum: 0.3490779239218682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6670716484077275
+  lightness: 0.4396822222042829
+  saturation: 0.49531420273706317
+  rhythmicContrast: 0.7448516839649528
+purpose: []
